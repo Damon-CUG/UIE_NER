@@ -1,0 +1,60 @@
+{"id": 443, "data": "可以告诉我你的名字吗？刘晓晨", "label": {"entities": [{"id": 42, "start_offset": 11, "end_offset": 14, "label": "人名"}]}}
+{"id": 444, "data": "可以告诉我你的名字吗？杨雨☔️", "label": {"entities": [{"id": 46, "start_offset": 11, "end_offset": 13, "label": "人名"}]}}
+{"id": 445, "data": "可以告诉我你的名字吗？瑶瑶。", "label": {"entities": [{"id": 47, "start_offset": 11, "end_offset": 13, "label": "人名"}]}}
+{"id": 446, "data": "可以告诉我你的名字吗？本人战狼", "label": {"entities": [{"id": 48, "start_offset": 13, "end_offset": 15, "label": "人名"}]}}
+{"id": 447, "data": "可以告诉我你的名字吗？陈哥叫我", "label": {"entities": [{"id": 49, "start_offset": 11, "end_offset": 13, "label": "人名"}]}}
+{"id": 448, "data": "可以告诉我你的名字吗？大名齐梓晨，小名涛涛", "label": {"entities": [{"id": 51, "start_offset": 19, "end_offset": 21, "label": "人名"}, {"id": 156, "start_offset": 13, "end_offset": 16, "label": "人名"}]}}
+{"id": 449, "data": "可以告诉我你的名字吗？加我丹丹叭", "label": {"entities": [{"id": 52, "start_offset": 13, "end_offset": 15, "label": "人名"}]}}
+{"id": 450, "data": "可以告诉我你的名字吗？叫我红姐就可以了", "label": {"entities": [{"id": 53, "start_offset": 13, "end_offset": 15, "label": "人名"}]}}
+{"id": 451, "data": "可以告诉我你的名字吗？叫我鹏哥就行了", "label": {"entities": [{"id": 54, "start_offset": 13, "end_offset": 15, "label": "人名"}]}}
+{"id": 452, "data": "可以告诉我你的名字吗？叫我钰就OK", "label": {"entities": [{"id": 55, "start_offset": 13, "end_offset": 14, "label": "人名"}]}}
+{"id": 453, "data": "可以告诉我你的名字吗？可以称呼我小组", "label": {"entities": [{"id": 56, "start_offset": 16, "end_offset": 18, "label": "人名"}]}}
+{"id": 454, "data": "可以告诉我你的名字吗？可以叫我小马", "label": {"entities": [{"id": 57, "start_offset": 15, "end_offset": 17, "label": "人名"}]}}
+{"id": 455, "data": "可以告诉我你的名字吗？你好！很高兴识你！我叫明天", "label": {"entities": [{"id": 58, "start_offset": 22, "end_offset": 24, "label": "人名"}]}}
+{"id": 456, "data": "可以告诉我你的名字吗？你好！我叫郭帅", "label": {"entities": [{"id": 59, "start_offset": 16, "end_offset": 18, "label": "人名"}]}}
+{"id": 457, "data": "可以告诉我你的名字吗？你好！我是王女士！", "label": {"entities": [{"id": 60, "start_offset": 16, "end_offset": 19, "label": "人名"}]}}
+{"id": 458, "data": "可以告诉我你的名字吗？你好晴天，叫我小陈", "label": {"entities": [{"id": 61, "start_offset": 18, "end_offset": 20, "label": "人名"}]}}
+{"id": 459, "data": "可以告诉我你的名字吗？你好我叫李欢", "label": {"entities": [{"id": 62, "start_offset": 15, "end_offset": 17, "label": "人名"}]}}
+{"id": 460, "data": "可以告诉我你的名字吗？你叫我耳朵", "label": {"entities": [{"id": 63, "start_offset": 14, "end_offset": 16, "label": "人名"}]}}
+{"id": 461, "data": "可以告诉我你的名字吗？你叫我小洁就可以了", "label": {"entities": [{"id": 64, "start_offset": 14, "end_offset": 16, "label": "人名"}]}}
+{"id": 462, "data": "可以告诉我你的名字吗？我叫杜笛", "label": {"entities": [{"id": 66, "start_offset": 13, "end_offset": 15, "label": "人名"}]}}
+{"id": 463, "data": "可以告诉我你的名字吗？我叫风雨过后便是晴天", "label": {"entities": [{"id": 67, "start_offset": 13, "end_offset": 21, "label": "人名"}]}}
+{"id": 464, "data": "可以告诉我你的名字吗？我叫后生，陕北人。", "label": {"entities": [{"id": 68, "start_offset": 13, "end_offset": 15, "label": "人名"}]}}
+{"id": 465, "data": "可以告诉我你的名字吗？我是大帝", "label": {"entities": [{"id": 69, "start_offset": 13, "end_offset": 15, "label": "人名"}]}}
+{"id": 466, "data": "可以告诉我你的名字吗？我是了解天氣", "label": {"entities": [{"id": 70, "start_offset": 13, "end_offset": 17, "label": "人名"}]}}
+{"id": 467, "data": "可以告诉我你的名字吗？我是星星", "label": {"entities": [{"id": 72, "start_offset": 13, "end_offset": 15, "label": "人名"}]}}
+{"id": 468, "data": "可以告诉我你的名字吗？我姓常65岁", "label": {"entities": [{"id": 73, "start_offset": 13, "end_offset": 14, "label": "人名"}]}}
+{"id": 469, "data": "可以告诉我你的名字吗？我姓卢，男，1979年生，属羊", "label": {"entities": [{"id": 74, "start_offset": 13, "end_offset": 14, "label": "人名"}]}}
+{"id": 470, "data": "可以告诉我你的名字吗？我姓蒲，名叫蒲鲜眉", "label": {"entities": [{"id": 75, "start_offset": 17, "end_offset": 20, "label": "人名"}]}}
+{"id": 471, "data": "可以告诉我你的名字吗？免贵姓关", "label": {"entities": [{"id": 76, "start_offset": 14, "end_offset": 15, "label": "人名"}]}}
+{"id": 472, "data": "可以告诉我你的名字吗？老孙姓张", "label": {"entities": [{"id": 77, "start_offset": 14, "end_offset": 15, "label": "人名"}]}}
+{"id": 591, "data": "可以告诉我你的名字吗？Tom", "label": {"entities": [{"id": 259, "start_offset": 11, "end_offset": 14, "label": "人名"}]}}
+{"id": 592, "data": "可以告诉我你的名字吗？Ryan", "label": {"entities": [{"id": 260, "start_offset": 11, "end_offset": 15, "label": "人名"}]}}
+{"id": 593, "data": "可以告诉我你的名字吗？Nancy", "label": {"entities": [{"id": 261, "start_offset": 11, "end_offset": 16, "label": "人名"}]}}
+{"id": 594, "data": "可以告诉我你的名字吗？Fancy", "label": {"entities": [{"id": 262, "start_offset": 11, "end_offset": 16, "label": "人名"}]}}
+{"id": 595, "data": "可以告诉我你的名字吗？Robert", "label": {"entities": [{"id": 263, "start_offset": 11, "end_offset": 17, "label": "人名"}]}}
+{"id": 596, "data": "可以告诉我你的名字吗？晴朗", "label": {"entities": [{"id": 264, "start_offset": 11, "end_offset": 13, "label": "人名"}]}}
+{"id": 597, "data": "可以告诉我你的名字吗？小草", "label": {"entities": [{"id": 265, "start_offset": 11, "end_offset": 13, "label": "人名"}]}}
+{"id": 598, "data": "可以告诉我你的名字吗？大树", "label": {"entities": [{"id": 266, "start_offset": 11, "end_offset": 13, "label": "人名"}]}}
+{"id": 599, "data": "可以告诉我你的名字吗？星空", "label": {"entities": [{"id": 267, "start_offset": 11, "end_offset": 13, "label": "人名"}]}}
+{"id": 600, "data": "可以告诉我你的名字吗？可爱多", "label": {"entities": [{"id": 268, "start_offset": 11, "end_offset": 14, "label": "人名"}]}}
+{"id": 601, "data": "可以告诉我你的名字吗？七里香", "label": {"entities": [{"id": 269, "start_offset": 11, "end_offset": 14, "label": "人名"}]}}
+{"id": 602, "data": "可以告诉我你的名字吗？蔚蓝天空", "label": {"entities": [{"id": 270, "start_offset": 11, "end_offset": 15, "label": "人名"}]}}
+{"id": 603, "data": "可以告诉我你的名字吗？下雨有伞", "label": {"entities": [{"id": 271, "start_offset": 11, "end_offset": 15, "label": "人名"}]}}
+{"id": 604, "data": "可以告诉我你的名字吗？山阴路的夏天", "label": {"entities": [{"id": 272, "start_offset": 11, "end_offset": 17, "label": "人名"}]}}
+{"id": 605, "data": "可以告诉我你的名字吗？躲过雨的屋檐", "label": {"entities": [{"id": 274, "start_offset": 11, "end_offset": 17, "label": "人名"}]}}
+{"id": 606, "data": "可以告诉我你的名字吗？互联网试吃点心", "label": {"entities": [{"id": 276, "start_offset": 11, "end_offset": 18, "label": "人名"}]}}
+{"id": 607, "data": "可以告诉我你的名字吗？此情可待成追忆", "label": {"entities": [{"id": 277, "start_offset": 11, "end_offset": 18, "label": "人名"}]}}
+{"id": 608, "data": "可以告诉我你的名字吗？马修·李喜欢喝美式", "label": {"entities": [{"id": 278, "start_offset": 11, "end_offset": 20, "label": "人名"}]}}
+{"id": 609, "data": "可以告诉我你的名字吗？白雪公主与七个小矮人", "label": {"entities": [{"id": 279, "start_offset": 11, "end_offset": 21, "label": "人名"}]}}
+{"id": 610, "data": "可以告诉我你的名字吗？皮皮鲁与舒克贝塔历险记", "label": {"entities": [{"id": 280, "start_offset": 11, "end_offset": 22, "label": "人名"}]}}
+{"id": 473, "data": "可以告诉我你的名字吗？随便称呼", "label": []}
+{"id": 474, "data": "可以告诉我你的名字吗？都可以", "label": []}
+{"id": 475, "data": "可以告诉我你的名字吗？可以不用称呼哦", "label": []}
+{"id": 476, "data": "可以告诉我你的名字吗？不想说名字", "label": []}
+{"id": 477, "data": "可以告诉我你的名字吗？我不想告诉你", "label": []}
+{"id": 478, "data": "可以告诉我你的名字吗？你好", "label": []}
+{"id": 479, "data": "可以告诉我你的名字吗？您好", "label": []}
+{"id": 480, "data": "可以告诉我你的名字吗？你想怎么称呼？", "label": []}
+{"id": 481, "data": "可以告诉我你的名字吗？你随便吧", "label": []}
+{"id": 482, "data": "可以告诉我你的名字吗？没有称呼", "label": []}
