@@ -1,2 +1,1 @@
-# bert_ner_demo
-bert+全连接层 -> ner任务
+利用UIE进行ner任务
